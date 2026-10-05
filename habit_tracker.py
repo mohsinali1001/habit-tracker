@@ -2,7 +2,9 @@ habits = [
     ("Drink water", True),
     ("Read 10 pages", False),
     ("Exercise", True),
-    ("Sleep 8 hours", True)
+    ("Sleep 8 hours", True),
+    ("Studying 5 hours", True),
+    ("project work 3 hours", False)
 ]
 
 
