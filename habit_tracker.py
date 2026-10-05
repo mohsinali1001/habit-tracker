@@ -4,7 +4,8 @@ habits = [
     ("Exercise", True),
     ("Sleep 8 hours", True),
     ("Studying 5 hours", True),
-    ("project work 3 hours", False)
+    ("project work 3 hours", False),
+    ("Learning git hub", True)
 ]
 
 
